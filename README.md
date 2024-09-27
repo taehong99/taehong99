@@ -1,4 +1,4 @@
-## Hi there 👋
+## 게임 프로그래머 안태홍입니다 👋
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/taehong99"/>
 </a>
